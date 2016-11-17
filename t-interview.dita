@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task audience="writer" id="t-interview">
+    <title>How to Set up an Interview Space</title>
+    <shortdesc>These instructions will show you how to set up the best professional interview space
+        in AirClassroom.</shortdesc>
+    <taskbody>
+        <prereq> Rent the Professional Lighting set or pieces of it from the receptionist if you do
+            not have one or more of the items requied<ul id="ul_syr_cm5_yx">
+                <li>2 Professional Stand-Up Lights</li>
+                <li>1 Reflector</li>
+                <li>1 Camera</li>
+                <li>1 Cameraman</li>
+                <li>1 Large white backdrop</li>
+                <li>2 Clip-on Microphones</li>
+            </ul></prereq>
+        <steps>
+            <step>
+                <cmd>Put up the 2 stand-up lights about 5 feet away from each other at the front of
+                    the room</cmd>
+                <info id="ambi">The front of the room has the best ambience</info>
+            </step>
+            <step>
+                <cmd>Plug in the lights into the sockets in the front of the room</cmd>
+            </step>
+            <step>
+                <cmd>Set up the reflector behind the 2 stand-up lights</cmd>
+            </step>
+            <step>
+                <cmd>Set up the large white backdrop behind the reflector</cmd>
+            </step>
+            <step>
+                <cmd>Give the camera to you cameraman</cmd>
+            </step>
+            <step>
+                <cmd>Set the cameraman 4 feet away from where you are going to interview</cmd>
+            </step>
+            <step>
+                <cmd>Clip the microphones onto your shirt and the interviewee's shirt, near the
+                    neck</cmd>
+            </step>
+            <step>
+                <cmd>Ace your interview</cmd>
+            </step>
+        </steps>
+        <result id="result_pnt_zr1_zx">
+            <fig id="fig_uhq_gs1_zx">
+                <title>Interview Area</title>
+                <image href="photoshoot.jpg" width="500" height="250" id="image_vhq_gs1_zx"/>
+            </fig>
+        </result>
+    </taskbody>
+</task>

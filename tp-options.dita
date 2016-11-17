@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="tp-options">
+  <title>Rental Classroom Packages</title>
+  <body>
+    <p>There are three tier packages that you can purchase from AirClassroom, and they all come with
+      different perks. </p>
+    <p>As for pricing, Virginia Tech realizes different consumers have different budgets, and we are
+      willing to work for an affordable price. Call us for more rental information. </p>
+    <p conref="tp-contact.dita#tp-contact/rent"/>
+    <p>Everyone will start at the Basic Tier package, but one can upgrade at the receptionists desk
+      at anytime. Call us for more upgrade information and purchasable items information and for
+      additional questions.</p>
+    <p conref="tp-contact.dita#tp-contact/purchase"/>
+    <p conref="tp-contact.dita#tp-contact/help"/>
+    <p>The first tier is the Basic Tier and this includes the most essential goods:<ul
+        id="ul_m1g_4k5_yx">
+        <li>Classroom itself</li>
+        <li>2 Tables</li>
+        <li>50 Seats</li>
+        <li>1 Laser Pointer</li>
+        <li>1 Projector</li>
+        <li>1 HDMI Cable</li>
+        <li>1 Guest Virginia Tech ID</li>
+        <li>Cleaning Supplies</li>
+      <li>(Only given to professionals in their field) 1 Technical Helper  <xref href="tp-helpers.dita"></xref></li>
+      </ul></p>
+    <p>The second tier is the Medium Tier and this includes extra goods:</p>
+    <ul id="ul_pyz_wk5_yx">
+      <li>Classroom itself</li>
+      <li>1 Laser Pointer</li>
+      <li>1 Projector</li>
+      <li>1 HDMI Cable</li>
+      <li>1 Guest Virginia Tech ID</li>
+      <li>1 Rental Laptop</li>
+      <li>1 Technical Helper (Helps setup your presentation, can assist with multiple
+        tasks)</li>
+      <li>Assorted food and drinks for the audience</li>
+      <li>Cleaning Supplies</li>
+    </ul>
+    <p>The third and final tier is the Luxury Tier and this includes luxuary goods:</p>
+    <ul id="ul_u35_jl5_yx">
+      <li>Classroom itself</li>
+      <li>1 Laser Pointer</li>
+      <li>1 Projector</li>
+      <li>1 HDMI Cable</li>
+      <li>1 Guest Virginia Tech ID</li>
+      <li>1 Rental Laptop</li>
+      <li>2 Technical Helpers (Helps setup your presentation)</li>
+      <li>Catered food and drinks for the audience</li>
+      <li>Mini Bar (provided to 21 and over only)</li>
+      <li>Juice Bar (If not 21)</li>
+      <li>Gift Bags for the audience</li>
+      <li>Cleaning Supplies</li>
+    </ul>
+    <p>Various items, more complex items can also be rented out at the receptionist for $10 per
+        hour:<ul id="ul_tl5_xm5_yx">
+        <li>Professional Lighting Set (includes 2 lights, 1 reflector, 1 large backdrop also can be
+          rented separately)</li>
+        <li>Clip-on Microphones</li>
+        <li>Professional Cameras</li>
+        <li>Disco Ball (includes tape to put up)</li>
+        <li>Party Lights (includes tape to put up)</li>
+        <li>Touch Screen Laptops</li>
+        <li>Sound System Set (includes 2 HD stereos and their stands, 2 audio jacks, 1 mircophone
+          also can be rented separately)</li>
+      </ul></p>
+  </body>
+</topic>

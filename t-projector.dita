@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-projector">
+    <title>How to Use the Projector</title>
+    <shortdesc>These instructions will show you how to use the projector.</shortdesc>
+    <taskbody>
+        <prereq><p>Ingredients/Tools Required:</p>
+            <ul>
+                <li>1 Laptop</li>
+                <li>1 HDMI Cable</li>
+                <li>1 Projector</li>
+                <li>1 Laser Pointer</li>
+                <li>1 Guest Virginia Tech ID</li>
+                <li audience="porter">1 Turntable</li>
+                <li audience="porter">1 Turntable USB Cord (comes attached to Turntable)</li>
+                <li audience="jac">Blankets (as needed)</li>
+            </ul>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Swipe your guest ID in the card swiper to access the projector</cmd>
+            </step>
+            <step>
+                <cmd>Turn on your personal computer and find the file you wish to project</cmd>
+                <info audience="jac" id="lights">Put blankets over the animal's cages so they are
+                    not freightened by the projector lights as they are especially bright</info>
+            </step>
+            <step id="turnon">
+                <cmd>Turn on the projector by hitting the power button on the right side of the
+                    projector</cmd>
+            </step>
+            <step>
+                <cmd>Wait for the projector to power up fully</cmd>
+            </step>
+            <step>
+                <cmd>Attach the HDMI cable to your laptop's HDMI port</cmd>
+                <info><image href="laptop%20hdmi%20port.jpg" id="image_gvc_jc4_yx" width="250"
+                        height="250"/></info>
+            </step>
+            <step>
+                <cmd>Attach the other end of the HDMI cable to the projector's HDMI port located
+                    near the power button</cmd>
+                <info>Projector's HDMI port looks the same as the laptop's</info>
+            </step>
+            <step id="turnusb" audience="porter">
+                <cmd>Plug the turntable's USB into your computer</cmd>
+            </step>
+            <step audience="porter">
+                <cmd>Look at the screen to see that your turntable's interface is connected with the
+                    laptop</cmd>
+                <info>This means your turntable's interface will show up on the projector after the
+                    rest of the steps are completed</info>
+            </step>
+            <step>
+                <cmd>Right click on your laptop's desktop and select "display settings"</cmd>
+            </step>
+            <step>
+                <cmd>Select the number "2" screen on the screen that pops up</cmd>
+                <info><image href="display.JPG" width="250" height="250" id="image_ntc_wd4_yx"
+                    /></info>
+            </step>
+            <step>
+                <cmd>Grab your laser pointer as the projector will now be showing your laptop
+                    screen</cmd>
+            </step>
+            <step>
+                <cmd>Point with the pointer to relevant material on the screen as you give your
+                    presentation</cmd>
+                <info id="laser">Do not point laser pointer into people's eyes</info>
+            </step>
+        </steps>
+        <result id="result_ql3_g24_yx">
+            <fig id="fig_zg2_z24_yx">
+                <title>Presentation</title>
+                <image href="lecture.jpg" width="250" height="250" id="image_ah2_z24_yx"/>
+            </fig>
+        </result>
+    </taskbody>
+</task>

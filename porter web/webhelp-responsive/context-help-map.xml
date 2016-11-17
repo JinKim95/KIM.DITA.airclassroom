@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="concept_vbf_nkl_yx" path="intro.html"/>
+   <appContext helpID="tp-contact" path="tp-contact.html"/>
+   <appContext helpID="tp-options" path="tp-options.html"/>
+   <appContext helpID="tp-helpers" path="tp-helpers.html"/>
+   <appContext helpID="troubleP" path="troubleP.html"/>
+   <appContext helpID="troubleL" path="troubleL.html"/>
+   <appContext helpID="ref" path="ref.html"/>
+   <appContext helpID="t-projector" path="t-projector.html"/>
+   <appContext helpID="t-dj" path="t-dj.html"/>
+   <appContext helpID="t-cleaning" path="t-cleaning.html"/>
+</map>
