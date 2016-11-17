@@ -1,0 +1,11 @@
+fil = new Array();
+fil["0"]= "intro.html@@@AirClassroom: Rent a Classroom at Virginia Tech@@@AirClassroom is a new opportunity for students, teachers, and business professionals to rent out class rooms for lectures and projects here at Virginia Tech. This guide will help you utilize the...";
+fil["1"]= "ref.html@@@References@@@Laptop HDMI Port Type Description Image https://techexplainer.files.wordpress.com/2012/03/hdmi-port.jpg Lecture Type Description Image...";
+fil["2"]= "t-animal.html@@@How to have an Animal Presentation in AirClassroom@@@These instructions will show you how to safely present with animals in an AirClassroom...";
+fil["3"]= "t-cleaning.html@@@How to Clean Up the Classroom after Use@@@These instructions will teach you how to clean up after rental use of AirClassroom, as well as the procedure after use...";
+fil["4"]= "t-projector.html@@@How to Use the Projector@@@These instructions will show you how to use the projector...";
+fil["5"]= "tp-contact.html@@@Contact Information@@@Address: 181 Turner St. NW Phone (for rental information): 333-222-3321 Receptionist (for help): 334-342-3255 Receptionist (for purchase of additional items or package upgrades): 219-535-1234 Email...";
+fil["6"]= "tp-helpers.html@@@Using Technical Helpers@@@This guide will show you who Technical Helpers are, what their duties are, and what the limits of their duties are. Technical Helpers are working students paid by Virginia Tech that know how to...";
+fil["7"]= "tp-options.html@@@Rental Classroom Packages@@@There are three tier packages that you can purchase from AirClassroom, and they all come with different perks. As for pricing, Virginia Tech realizes different consumers have different budgets, and we...";
+fil["8"]= "troubleL.html@@@Troubleshooting the Rental Laptop@@@The laptop is not working properly The laptop is not plugged in Plug in the laptop power cord into the electrical wall socket Use laptop properly The laptop s battery is dead Go back to the...";
+fil["9"]= "troubleP.html@@@Troubleshooting the Projector@@@The projector is not working properly The projector is not plugged in Plug in the projector s cord into the wall socket The projector has overheated Turn off the projector by flipping off the power...";

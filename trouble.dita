@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA 1.3 Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="trouble">
+  <title>Troubleshooting the Projector</title>
+  <troublebody>
+    <condition>
+      <p>The projector is not working properly</p>
+    </condition>
+    <troubleSolution>
+      <cause>
+        <title>The projector is not plugged in</title>
+      </cause>
+      <remedy id="remedy_ew4_v4b_zx">
+        <steps id="steps_qmt_v4b_zx">
+          <step>
+            <cmd>Plug in the projector's cord into the wall socket</cmd>
+          </step>
+        </steps>
+      </remedy>
+    </troubleSolution>
+    <troubleSolution>
+      <cause id="cause_fgk_x4b_zx">
+        <title>The projector has overheated</title>
+      </cause>
+      <remedy id="remedy_q45_y4b_zx">
+        <steps id="steps_qj3_z4b_zx">
+          <step id="turnoff">
+            <cmd>Turn off the projector by flipping off the power button on its right side</cmd>
+          </step>
+          <step>
+            <cmd>Wait for the red on top of the projector indicating overheating turns off</cmd>
+          </step>
+          <step conref="t-projector.dita#t-projector/turnon">
+            <cmd></cmd>
+          </step>
+          <step>
+            <cmd>Resume using the projector as normal</cmd>
+          </step>
+        </steps>
+      </remedy>
+    </troubleSolution>
+    <troubleSolution>
+      <cause id="cause_kyf_dpb_zx">
+        <title>The projector is not digitally connected to my computer (didn't wait for drivers to
+          install before use)</title>
+      </cause>
+      <remedy id="remedy_xyf_hpb_zx">
+        <steps id="steps_lkj_hpb_zx">
+          <step conref="trouble.dita#trouble/turnoff">
+            <cmd/>
+          </step>
+          <step>
+            <cmd>Unplug the USB cord attached to the projector to the computer</cmd>
+          </step>
+          <step conref="t-projector.dita#t-projector/turnon">
+            <cmd></cmd>
+          </step>
+          <step>
+            <cmd>Wait for the projector to restart</cmd>
+          </step>
+          <step>
+            <cmd>Plug in the USB cord from the project to the computer</cmd>
+          </step>
+          <step>
+            <cmd>Wait for the drivers to install all the way</cmd>
+          </step>
+          <step>
+            <cmd>Use projector </cmd>
+          </step>
+        </steps>
+      </remedy>
+    </troubleSolution>
+  </troublebody>
+</troubleshooting>

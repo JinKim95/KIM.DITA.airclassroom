@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task audience="porter" id="t-dj">
+    <title>How to Set up a DJ Presentation</title>
+    <shortdesc>These instruction will show you how to set up a DJ presentation with perfect sound
+        reverberation in one of the AirClassrooms</shortdesc>
+    <taskbody>
+        <prereq>Rent the Sound System set or pieces of it from the receptionist if you do not have
+            one or more of the items required<ul id="ul_fvk_lt1_zx">
+                <li>2 HD Stereos and their Stands</li>
+                <li>1 Table</li>
+                <li>2 Audio Jacks</li>
+                <li>1 Chalkboard (comes with classroom)</li>
+                <li>1 Mircophone </li>
+                <li>1 Disco Ball with Tape(Optional)</li>
+                <li>1 Set of Party Lights with Tape (Optional)</li>
+                <li>1 Turntable </li>
+                <li>1 Turntable USB Cord (comes attached to turntable)</li>
+                <li>1 Laptop</li>
+            </ul></prereq>
+        <steps>
+            <step>
+                <cmd>Set up the stereos on their stands</cmd>
+            </step>
+            <step>
+                <cmd>Put the stereos next to the table in the front of the room, one on each
+                    side</cmd>
+                <info conref="t-interview.dita#t-interview/ambi"/>
+            </step>
+            <step>
+                <cmd>Put your turntable onto the one of the table's provided</cmd>
+            </step>
+            <step>
+                <cmd>Plug in your turntable to a socket</cmd>
+            </step>
+            <step>
+                <cmd>Place your laptop on the table and turn it on</cmd>
+            </step>
+            <step conref="t-projector.dita#t-projector/turnusb">
+                <cmd></cmd>
+            </step>
+            <step>
+                <cmd>Plug in the mircophone to the computer</cmd>
+            </step>
+            <step>
+                <cmd>Plug the audio jacks into the stereos</cmd>
+            </step>
+            <step>
+                <cmd>Plug the other end of the audio jack into the laptop</cmd>
+            </step>
+            <step>
+                <cmd>(Optional) Hang up the disco ball with tape on the chalkboard behind you</cmd>
+            </step>
+            <step>
+                <cmd>(Optional) Hang up the party lights near the disco on the top side of the
+                    chalkboard behind you</cmd>
+            </step>
+            <step>
+                <cmd>Rave</cmd>
+            </step>
+        </steps>
+        <result id="result_b5f_2mb_zx">
+            <fig id="fig_p1y_lmb_zx">
+                <title>DJ Setup</title>
+                <image href="disco.jpg" width="300" height="250" id="image_q1y_lmb_zx"/>
+            </fig>
+        </result>
+    </taskbody>
+</task>

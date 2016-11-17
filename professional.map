@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>AirClassroom</title>
+ <keydef keys="product-name"> 
+  <topicmeta>
+   <keywords> 
+    <keyword>AirClassroom</keyword>
+    <keyword>Receptionist</keyword>
+    <keyword>Technical Helpers</keyword>
+    <keyword>Basic Tier</keyword>
+    <keyword>Medium Tier</keyword>
+    <keyword>Luxuary Tier</keyword>
+   </keywords> 
+  </topicmeta> 
+ </keydef>
+ <topichead navtitle="About">
+  <topicref href="intro.dita" />
+  <topicref href="tp-contact.dita" />
+  <topicref href="tp-options.dita" />
+  <topicref href="tp-helpers.dita" />
+  <topicref href="troubleP.dita" />
+  <topicref href="troubleL.dita" />
+  <topicref href="ref.dita" />
+ </topichead>
+ <topichead navtitle="For professionals">
+  <topicref href="t-projector.dita" />
+  <topicref href="t-cleaning.dita" />
+ </topichead>
+</map>
